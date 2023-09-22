@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@ant-design/pro-components": "^2.6.18",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -10,10 +11,15 @@
     "@types/node": "^16.18.50",
     "@types/react": "^18.2.21",
     "@types/react-dom": "^18.2.7",
+    "antd": "^5.9.0",
+    "element-resize-detector": "^1.2.4",
+    "immer": "^9.0.12",
+    "lodash": "^4.17.15",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "typescript": "^4.9.5",
+    "umi-request": "^1.4.0",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
